@@ -1,7 +1,7 @@
 [
   {
     "index": "club",
-    "name": "Club",
+    "name": "Randello",
     "equipment_category": {
       "index": "weapon",
       "name": "Weapon",
@@ -42,7 +42,7 @@
   },
   {
     "index": "dagger",
-    "name": "Dagger",
+    "name": "Pugnale",
     "equipment_category": {
       "index": "weapon",
       "name": "Weapon",
@@ -96,7 +96,7 @@
     "url": "/api/equipment/dagger"
   },
   {
-    "index": "greatclub",
+    "index": "Mazza Gigante",
     "name": "Greatclub",
     "equipment_category": {
       "index": "weapon",
@@ -133,7 +133,7 @@
   },
   {
     "index": "handaxe",
-    "name": "Handaxe",
+    "name": "Ascia ad una mano",
     "equipment_category": {
       "index": "weapon",
       "name": "Weapon",
@@ -183,7 +183,7 @@
   },
   {
     "index": "javelin",
-    "name": "Javelin",
+    "name": "Giavellotto",
     "equipment_category": {
       "index": "weapon",
       "name": "Weapon",
@@ -228,7 +228,7 @@
   },
   {
     "index": "light-hammer",
-    "name": "Light hammer",
+    "name": "Martello Leggero",
     "equipment_category": {
       "index": "weapon",
       "name": "Weapon",
@@ -278,7 +278,7 @@
   },
   {
     "index": "mace",
-    "name": "Mace",
+    "name": "Macete",
     "equipment_category": {
       "index": "weapon",
       "name": "Weapon",
@@ -314,7 +314,7 @@
   },
   {
     "index": "quarterstaff",
-    "name": "Quarterstaff",
+    "name": "Mazza ferrata",
     "equipment_category": {
       "index": "weapon",
       "name": "Weapon",
@@ -363,7 +363,7 @@
   },
   {
     "index": "sickle",
-    "name": "Sickle",
+    "name": "Falce",
     "equipment_category": {
       "index": "weapon",
       "name": "Weapon",
@@ -404,7 +404,7 @@
   },
   {
     "index": "spear",
-    "name": "Spear",
+    "name": "Lancia",
     "equipment_category": {
       "index": "weapon",
       "name": "Weapon",
@@ -462,7 +462,7 @@
   },
   {
     "index": "crossbow-light",
-    "name": "Crossbow, light",
+    "name": "Balestra Leggera",
     "equipment_category": {
       "index": "weapon",
       "name": "Weapon",
@@ -509,7 +509,7 @@
   },
   {
     "index": "dart",
-    "name": "Dart",
+    "name": "Dardo",
     "equipment_category": {
       "index": "weapon",
       "name": "Weapon",
@@ -555,7 +555,7 @@
   },
   {
     "index": "shortbow",
-    "name": "Shortbow",
+    "name": "Arco Corto",
     "equipment_category": {
       "index": "weapon",
       "name": "Weapon",
@@ -597,7 +597,7 @@
   },
   {
     "index": "sling",
-    "name": "Sling",
+    "name": "Fionda",
     "equipment_category": {
       "index": "weapon",
       "name": "Weapon",
@@ -634,7 +634,7 @@
   },
   {
     "index": "battleaxe",
-    "name": "Battleaxe",
+    "name": "Ascia da Battaglia",
     "equipment_category": {
       "index": "weapon",
       "name": "Weapon",
@@ -678,7 +678,7 @@
   },
   {
     "index": "flail",
-    "name": "Flail",
+    "name": "Mazzafrusta",
     "equipment_category": {
       "index": "weapon",
       "name": "Weapon",
@@ -754,7 +754,7 @@
   },
   {
     "index": "greataxe",
-    "name": "Greataxe",
+    "name": "Ascia Grande",
     "equipment_category": {
       "index": "weapon",
       "name": "Weapon",
@@ -795,7 +795,7 @@
   },
   {
     "index": "greatsword",
-    "name": "Greatsword",
+    "name": "Spadone",
     "equipment_category": {
       "index": "weapon",
       "name": "Weapon",
@@ -836,7 +836,7 @@
   },
   {
     "index": "halberd",
-    "name": "Halberd",
+    "name": "Alabarda",
     "equipment_category": {
       "index": "weapon",
       "name": "Weapon",
@@ -882,7 +882,7 @@
   },
   {
     "index": "lance",
-    "name": "Lance",
+    "name": "Lancia",
     "equipment_category": {
       "index": "weapon",
       "name": "Weapon",
@@ -926,7 +926,7 @@
   },
   {
     "index": "longsword",
-    "name": "Longsword",
+    "name": "Spada Lunga",
     "equipment_category": {
       "index": "weapon",
       "name": "Weapon",
@@ -970,7 +970,7 @@
   },
   {
     "index": "maul",
-    "name": "Maul",
+    "name": "Maglio",
     "equipment_category": {
       "index": "weapon",
       "name": "Weapon",
@@ -1041,7 +1041,7 @@
   },
   {
     "index": "pike",
-    "name": "Pike",
+    "name": "Picca",
     "equipment_category": {
       "index": "weapon",
       "name": "Weapon",
@@ -1087,7 +1087,7 @@
   },
   {
     "index": "rapier",
-    "name": "Rapier",
+    "name": "Stocco",
     "equipment_category": {
       "index": "weapon",
       "name": "Weapon",
@@ -1123,7 +1123,7 @@
   },
   {
     "index": "scimitar",
-    "name": "Scimitar",
+    "name": "Scimitarra",
     "equipment_category": {
       "index": "weapon",
       "name": "Weapon",
@@ -1164,7 +1164,7 @@
   },
   {
     "index": "shortsword",
-    "name": "Shortsword",
+    "name": "Spada Corta",
     "equipment_category": {
       "index": "weapon",
       "name": "Weapon",
@@ -1210,7 +1210,7 @@
   },
   {
     "index": "trident",
-    "name": "Trident",
+    "name": "Tridente",
     "equipment_category": {
       "index": "weapon",
       "name": "Weapon",
@@ -1263,7 +1263,7 @@
   },
   {
     "index": "war-pick",
-    "name": "War pick",
+    "name": "Picca da guerra",
     "equipment_category": {
       "index": "weapon",
       "name": "Weapon",
@@ -1293,7 +1293,7 @@
   },
   {
     "index": "warhammer",
-    "name": "Warhammer",
+    "name": "Martello da guerra",
     "equipment_category": {
       "index": "weapon",
       "name": "Weapon",
@@ -1337,7 +1337,7 @@
   },
   {
     "index": "whip",
-    "name": "Whip",
+    "name": "Frusta",
     "equipment_category": {
       "index": "weapon",
       "name": "Weapon",
@@ -1378,7 +1378,7 @@
   },
   {
     "index": "blowgun",
-    "name": "Blowgun",
+    "name": "Cerbottana",
     "equipment_category": {
       "index": "weapon",
       "name": "Weapon",
@@ -1420,7 +1420,7 @@
   },
   {
     "index": "crossbow-hand",
-    "name": "Crossbow, hand",
+    "name": "Balestra ad una mano",
     "equipment_category": {
       "index": "weapon",
       "name": "Weapon",
@@ -1467,7 +1467,7 @@
   },
   {
     "index": "crossbow-heavy",
-    "name": "Crossbow, heavy",
+    "name": "Balestra Pesante",
     "equipment_category": {
       "index": "weapon",
       "name": "Weapon",
@@ -1519,7 +1519,7 @@
   },
   {
     "index": "longbow",
-    "name": "Longbow",
+    "name": "Arco Lungo",
     "equipment_category": {
       "index": "weapon",
       "name": "Weapon",
@@ -1566,7 +1566,7 @@
   },
   {
     "index": "net",
-    "name": "Net",
+    "name": "Rete",
     "equipment_category": {
       "index": "weapon",
       "name": "Weapon",
@@ -1607,7 +1607,7 @@
   },
   {
     "index": "padded-armor",
-    "name": "Padded Armor",
+    "name": "Armatura Imbottita",
     "equipment_category": {
       "index": "armor",
       "name": "Armor",
@@ -1629,7 +1629,7 @@
   },
   {
     "index": "leather-armor",
-    "name": "Leather Armor",
+    "name": "Armatura di Cuoio",
     "equipment_category": {
       "index": "armor",
       "name": "Armor",
@@ -1651,7 +1651,7 @@
   },
   {
     "index": "studded-leather-armor",
-    "name": "Studded Leather Armor",
+    "name": "Armatura di Cuoio Borchiato",
     "equipment_category": {
       "index": "armor",
       "name": "Armor",
@@ -1673,7 +1673,7 @@
   },
   {
     "index": "hide-armor",
-    "name": "Hide Armor",
+    "name": "Armatura di Pelle",
     "equipment_category": {
       "index": "armor",
       "name": "Armor",
@@ -1696,7 +1696,7 @@
   },
   {
     "index": "chain-shirt",
-    "name": "Chain Shirt",
+    "name": "Giaco di Maglia",
     "equipment_category": {
       "index": "armor",
       "name": "Armor",
@@ -1719,7 +1719,7 @@
   },
   {
     "index": "scale-mail",
-    "name": "Scale Mail",
+    "name": "Corazza di Scaglie",
     "equipment_category": {
       "index": "armor",
       "name": "Armor",
@@ -1742,7 +1742,7 @@
   },
   {
     "index": "breastplate",
-    "name": "Breastplate",
+    "name": "Corazza di Piastre",
     "equipment_category": {
       "index": "armor",
       "name": "Armor",
@@ -1765,7 +1765,7 @@
   },
   {
     "index": "half-plate-armor",
-    "name": "Half Plate Armor",
+    "name": "Mezz'armatura",
     "equipment_category": {
       "index": "armor",
       "name": "Armor",
@@ -1788,7 +1788,7 @@
   },
   {
     "index": "ring-mail",
-    "name": "Ring Mail",
+    "name": "Corazza ad anelli",
     "equipment_category": {
       "index": "armor",
       "name": "Armor",
@@ -1810,7 +1810,7 @@
   },
   {
     "index": "chain-mail",
-    "name": "Chain Mail",
+    "name": "Cotta di Maglia",
     "equipment_category": {
       "index": "armor",
       "name": "Armor",
@@ -1832,7 +1832,7 @@
   },
   {
     "index": "splint-armor",
-    "name": "Splint Armor",
+    "name": "Corazza a Strisce",
     "equipment_category": {
       "index": "armor",
       "name": "Armor",
@@ -1854,7 +1854,7 @@
   },
   {
     "index": "plate-armor",
-    "name": "Plate Armor",
+    "name": "Armatura Completa",
     "equipment_category": {
       "index": "armor",
       "name": "Armor",
@@ -1876,7 +1876,7 @@
   },
   {
     "index": "shield",
-    "name": "Shield",
+    "name": "Scudo",
     "equipment_category": {
       "index": "armor",
       "name": "Armor",
@@ -1898,7 +1898,7 @@
   },
   {
     "index": "abacus",
-    "name": "Abacus",
+    "name": "Abaco",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -1918,7 +1918,7 @@
   },
   {
     "index": "acid-vial",
-    "name": "Acid (vial)",
+    "name": "Fiala d'Acido",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -1942,7 +1942,7 @@
   },
   {
     "index": "alchemists-fire-flask",
-    "name": "Alchemist's fire (flask)",
+    "name": "Fuoco dell'alchimista(Borraccia)",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -1967,7 +1967,7 @@
   },
   {
     "index": "alms-box",
-    "name": "Alms box",
+    "name": "Cassetta per l'elemosine ",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -1983,12 +1983,14 @@
       "unit": "cp"
     },
     "weight": 0,
-    "desc": ["A small box for alms, typically found in a priest's pack."],
+    "desc": [
+      "A small box for alms, typically found in a priest's pack."
+    ],
     "url": "/api/equipment/alms-box"
   },
   {
     "index": "arrow",
-    "name": "Arrow",
+    "name": "freccia",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2009,7 +2011,7 @@
   },
   {
     "index": "block-of-incense",
-    "name": "Block of incense",
+    "name": "Pezzo di Incenso",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2025,12 +2027,14 @@
       "unit": "cp"
     },
     "weight": 0,
-    "desc": ["A block of incense, typically found in a priest's pack."],
+    "desc": [
+      "A block of incense, typically found in a priest's pack."
+    ],
     "url": "/api/equipment/block-of-incense"
   },
   {
     "index": "blowgun-needle",
-    "name": "Blowgun needle",
+    "name": "ago per cerbottana",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2051,7 +2055,7 @@
   },
   {
     "index": "censer",
-    "name": "Censer",
+    "name": "Incensiere",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2067,12 +2071,14 @@
       "unit": "cp"
     },
     "weight": 0,
-    "desc": ["A censer, typically found in a priest's pack."],
+    "desc": [
+      "A censer, typically found in a priest's pack."
+    ],
     "url": "/api/equipment/censer"
   },
   {
     "index": "crossbow-bolt",
-    "name": "Crossbow bolt",
+    "name": "dardi per Balestra",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2093,7 +2099,7 @@
   },
   {
     "index": "sling-bullet",
-    "name": "Sling bullet",
+    "name": "munizioni per fionda",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2114,7 +2120,7 @@
   },
   {
     "index": "amulet",
-    "name": "Amulet",
+    "name": "Amuleto",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2122,7 +2128,7 @@
     },
     "gear_category": {
       "index": "holy-symbols",
-      "name": "Holy Symbols",
+      "name": "holy symbols",
       "url": "/api/equipment-categories/holy-symbols"
     },
     "cost": {
@@ -2138,7 +2144,7 @@
   },
   {
     "index": "antitoxin-vial",
-    "name": "Antitoxin (vial)",
+    "name": "Fiala di Antitossina",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2161,7 +2167,7 @@
   },
   {
     "index": "crystal",
-    "name": "Crystal",
+    "name": "Cristallo",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2184,7 +2190,7 @@
   },
   {
     "index": "orb",
-    "name": "Orb",
+    "name": "Sfera",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2207,7 +2213,7 @@
   },
   {
     "index": "rod",
-    "name": "Rod",
+    "name": "Asta",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2230,7 +2236,7 @@
   },
   {
     "index": "staff",
-    "name": "Staff",
+    "name": "Verga",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2253,7 +2259,7 @@
   },
   {
     "index": "wand",
-    "name": "Wand",
+    "name": "Bacchetta",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2276,7 +2282,7 @@
   },
   {
     "index": "backpack",
-    "name": "Backpack",
+    "name": "Zaino",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2296,7 +2302,7 @@
   },
   {
     "index": "ball-bearings-bag-of-1000",
-    "name": "Ball bearings (bag of 1,000)",
+    "name": "Borsa di Biglie (1,000)",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2321,7 +2327,7 @@
   },
   {
     "index": "barrel",
-    "name": "Barrel",
+    "name": "Barile",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2341,7 +2347,7 @@
   },
   {
     "index": "basket",
-    "name": "Basket",
+    "name": "Cesto",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2361,7 +2367,7 @@
   },
   {
     "index": "bedroll",
-    "name": "Bedroll",
+    "name": "Sacco a pelo",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2401,7 +2407,7 @@
   },
   {
     "index": "blanket",
-    "name": "Blanket",
+    "name": "Lenzuolo",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2444,7 +2450,7 @@
   },
   {
     "index": "book",
-    "name": "Book",
+    "name": "Libro",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2467,7 +2473,7 @@
   },
   {
     "index": "bottle-glass",
-    "name": "Bottle, glass",
+    "name": "Bottiglia di Vetro",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2487,7 +2493,7 @@
   },
   {
     "index": "bucket",
-    "name": "Bucket",
+    "name": "Secchio",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2533,7 +2539,7 @@
   },
   {
     "index": "candle",
-    "name": "Candle",
+    "name": "Candela",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2556,7 +2562,7 @@
   },
   {
     "index": "case-crossbow-bolt",
-    "name": "Case, crossbow bolt",
+    "name": "Custodia per munizioni da Balestra",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2572,12 +2578,14 @@
       "unit": "gp"
     },
     "weight": 1,
-    "desc": ["This wooden case can hold up to twenty crossbow bolts."],
+    "desc": [
+      "This wooden case can hold up to twenty crossbow bolts."
+    ],
     "url": "/api/equipment/case-crossbow-bolt"
   },
   {
     "index": "case-map-or-scroll",
-    "name": "Case, map or scroll",
+    "name": "Custodia per mappe e pergamene ",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2600,7 +2608,7 @@
   },
   {
     "index": "chain-10-feet",
-    "name": "Chain (10 feet)",
+    "name": "Catena(3metri)",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2623,7 +2631,7 @@
   },
   {
     "index": "chalk-1-piece",
-    "name": "Chalk (1 piece)",
+    "name": "Pezzo di Gesso",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2643,7 +2651,7 @@
   },
   {
     "index": "chest",
-    "name": "Chest",
+    "name": "Cassa",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2663,7 +2671,7 @@
   },
   {
     "index": "clothes-common",
-    "name": "Clothes, common",
+    "name": "Abito comune",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2683,7 +2691,7 @@
   },
   {
     "index": "clothes-costume",
-    "name": "Clothes, costume",
+    "name": "Costume di scena",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2703,7 +2711,7 @@
   },
   {
     "index": "clothes-fine",
-    "name": "Clothes, fine",
+    "name": "Abito Elegante",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2723,7 +2731,7 @@
   },
   {
     "index": "clothes-travelers",
-    "name": "Clothes, traveler's",
+    "name": "Abito da viaggiatore",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2743,7 +2751,7 @@
   },
   {
     "index": "component-pouch",
-    "name": "Component pouch",
+    "name": "Borsa per componenti",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2766,7 +2774,7 @@
   },
   {
     "index": "crowbar",
-    "name": "Crowbar",
+    "name": "Piede di Porco",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2789,7 +2797,7 @@
   },
   {
     "index": "sprig-of-mistletoe",
-    "name": "Sprig of mistletoe",
+    "name": "Rametto di Vischio",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2835,7 +2843,7 @@
   },
   {
     "index": "wooden-staff",
-    "name": "Wooden staff",
+    "name": "Bacchetta di Legno",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2858,7 +2866,7 @@
   },
   {
     "index": "yew-wand",
-    "name": "Yew wand",
+    "name": "Bacchetta di Tasso",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2881,7 +2889,7 @@
   },
   {
     "index": "emblem",
-    "name": "Emblem",
+    "name": "Emblema",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2905,7 +2913,7 @@
   },
   {
     "index": "fishing-tackle",
-    "name": "Fishing tackle",
+    "name": "Attrezzatura da Pesca",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2928,7 +2936,7 @@
   },
   {
     "index": "flask-or-tankard",
-    "name": "Flask or tankard",
+    "name": "Boccetta o Boccale",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2948,7 +2956,7 @@
   },
   {
     "index": "grappling-hook",
-    "name": "Grappling hook",
+    "name": "Rampino",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2968,7 +2976,7 @@
   },
   {
     "index": "hammer",
-    "name": "Hammer",
+    "name": "Martello",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -2988,7 +2996,7 @@
   },
   {
     "index": "hammer-sledge",
-    "name": "Hammer, sledge",
+    "name": "Mazza",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3008,7 +3016,7 @@
   },
   {
     "index": "holy-water-flask",
-    "name": "Holy water (flask)",
+    "name": "Boccetta di Acqua Santa",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3034,7 +3042,7 @@
   },
   {
     "index": "hourglass",
-    "name": "Hourglass",
+    "name": "Clessidra",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3054,7 +3062,7 @@
   },
   {
     "index": "hunting-trap",
-    "name": "Hunting trap",
+    "name": "Trappola da caccia",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3079,7 +3087,7 @@
   },
   {
     "index": "ink-1-ounce-bottle",
-    "name": "Ink (1 ounce bottle)",
+    "name": "boccetta di Inchiostro",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3099,7 +3107,7 @@
   },
   {
     "index": "ink-pen",
-    "name": "Ink pen",
+    "name": "Pennino per Inchiostro",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3119,7 +3127,7 @@
   },
   {
     "index": "jug-or-pitcher",
-    "name": "Jug or pitcher",
+    "name": "Brocca",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3139,7 +3147,7 @@
   },
   {
     "index": "climbers-kit",
-    "name": "Climber's Kit",
+    "name": "Kit da scalatore",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3162,7 +3170,7 @@
   },
   {
     "index": "disguise-kit",
-    "name": "Disguise Kit",
+    "name": "kit da travestimento",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3185,7 +3193,7 @@
   },
   {
     "index": "forgery-kit",
-    "name": "Forgery Kit",
+    "name": "Kit di Contraffazione",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3208,7 +3216,7 @@
   },
   {
     "index": "herbalism-kit",
-    "name": "Herbalism Kit",
+    "name": "Kit Dell'erborista",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3231,7 +3239,7 @@
   },
   {
     "index": "healers-kit",
-    "name": "Healer's Kit",
+    "name": "Kit da soccorittore",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3277,7 +3285,7 @@
   },
   {
     "index": "poisoners-kit",
-    "name": "Poisoner's Kit",
+    "name": "Kit da avvelenatore",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3300,7 +3308,7 @@
   },
   {
     "index": "ladder-10-foot",
-    "name": "Ladder (10-foot)",
+    "name": "Scala a pioli (3 metri)",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3320,7 +3328,7 @@
   },
   {
     "index": "lamp",
-    "name": "Lamp",
+    "name": "Lampada",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3343,7 +3351,7 @@
   },
   {
     "index": "lantern-bullseye",
-    "name": "Lantern, bullseye",
+    "name": "Lanterna Occhio di Bue",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3366,7 +3374,7 @@
   },
   {
     "index": "lantern-hooded",
-    "name": "Lantern, hooded",
+    "name": "Lanterna con cappuccio",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3389,7 +3397,7 @@
   },
   {
     "index": "little-bag-of-sand",
-    "name": "Little bag of sand",
+    "name": "Piccola borsa di sabbia",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3405,12 +3413,14 @@
       "unit": "cp"
     },
     "weight": 0,
-    "desc": ["A small bag of sand, typically found in a scholar's pack."],
+    "desc": [
+      "A small bag of sand, typically found in a scholar's pack."
+    ],
     "url": "/api/equipment/little-bag-of-sand"
   },
   {
     "index": "lock",
-    "name": "Lock",
+    "name": "Lucchetto",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3433,7 +3443,7 @@
   },
   {
     "index": "magnifying-glass",
-    "name": "Magnifying glass",
+    "name": "Lente d'ingrandimento",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3457,7 +3467,7 @@
   },
   {
     "index": "manacles",
-    "name": "Manacles",
+    "name": "Manette",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3481,7 +3491,7 @@
   },
   {
     "index": "mirror-steel",
-    "name": "Mirror, steel",
+    "name": "Specchio in acciaio",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3501,7 +3511,7 @@
   },
   {
     "index": "oil-flask",
-    "name": "Oil (flask)",
+    "name": "Fiasca D'olio",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3528,7 +3538,7 @@
   },
   {
     "index": "paper-one-sheet",
-    "name": "Paper (one sheet)",
+    "name": "Foglio di carta",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3548,7 +3558,7 @@
   },
   {
     "index": "parchment-one-sheet",
-    "name": "Parchment (one sheet)",
+    "name": "Foglio di Pergamena",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3568,7 +3578,7 @@
   },
   {
     "index": "perfume-vial",
-    "name": "Perfume (vial)",
+    "name": "Fiala di Profumo",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3588,7 +3598,7 @@
   },
   {
     "index": "pick-miners",
-    "name": "Pick, miner's",
+    "name": "Piccone da minatore",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3608,7 +3618,7 @@
   },
   {
     "index": "piton",
-    "name": "Piton",
+    "name": "Chiodo",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3628,7 +3638,7 @@
   },
   {
     "index": "poison-basic-vial",
-    "name": "Poison, basic (vial)",
+    "name": "Fiala di Veleno Basico",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3651,7 +3661,7 @@
   },
   {
     "index": "pole-10-foot",
-    "name": "Pole (10-foot)",
+    "name": "Palo(3metri)",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3671,7 +3681,7 @@
   },
   {
     "index": "pot-iron",
-    "name": "Pot, iron",
+    "name": "Pentola in ferro",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3691,7 +3701,7 @@
   },
   {
     "index": "pouch",
-    "name": "Pouch",
+    "name": "Custodia",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3714,7 +3724,7 @@
   },
   {
     "index": "quiver",
-    "name": "Quiver",
+    "name": "Faretra",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3730,12 +3740,14 @@
       "unit": "gp"
     },
     "weight": 1,
-    "desc": ["A quiver can hold up to 20 arrows."],
+    "desc": [
+      "A quiver can hold up to 20 arrows."
+    ],
     "url": "/api/equipment/quiver"
   },
   {
     "index": "ram-portable",
-    "name": "Ram, portable",
+    "name": "Ariete Portatile",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3758,7 +3770,7 @@
   },
   {
     "index": "rations-1-day",
-    "name": "Rations (1 day)",
+    "name": "Razioni di Cibo(1 giorno)",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3781,7 +3793,7 @@
   },
   {
     "index": "reliquary",
-    "name": "Reliquary",
+    "name": "Reliquiario",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3805,7 +3817,7 @@
   },
   {
     "index": "robes",
-    "name": "Robes",
+    "name": "Vestiti",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3825,7 +3837,7 @@
   },
   {
     "index": "rope-hempen-50-feet",
-    "name": "Rope, hempen (50 feet)",
+    "name": "Corda di Canapa(15mt)",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3848,7 +3860,7 @@
   },
   {
     "index": "rope-silk-50-feet",
-    "name": "Rope, silk (50 feet)",
+    "name": "Corda di seta(15mt)",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3871,7 +3883,7 @@
   },
   {
     "index": "sack",
-    "name": "Sack",
+    "name": "Sacco",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3891,7 +3903,7 @@
   },
   {
     "index": "scale-merchants",
-    "name": "Scale, merchant's",
+    "name": "Bilancia del commerciante",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3914,7 +3926,7 @@
   },
   {
     "index": "sealing-wax",
-    "name": "Sealing wax",
+    "name": "Cera da sigillo",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3934,7 +3946,7 @@
   },
   {
     "index": "shovel",
-    "name": "Shovel",
+    "name": "Pala",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3954,7 +3966,7 @@
   },
   {
     "index": "signal-whistle",
-    "name": "Signal whistle",
+    "name": "Fischietto di Segnalazione",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3974,7 +3986,7 @@
   },
   {
     "index": "signet-ring",
-    "name": "Signet ring",
+    "name": "Anello con sigillo",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -3994,7 +4006,7 @@
   },
   {
     "index": "small-knife",
-    "name": "Small knife",
+    "name": "Piccolo coltello",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -4010,12 +4022,14 @@
       "unit": "cp"
     },
     "weight": 0,
-    "desc": ["A small knife, typically found in a scholar's pack."],
+    "desc": [
+      "A small knife, typically found in a scholar's pack."
+    ],
     "url": "/api/equipment/small-knife"
   },
   {
     "index": "soap",
-    "name": "Soap",
+    "name": "Sapone",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -4035,7 +4049,7 @@
   },
   {
     "index": "spellbook",
-    "name": "Spellbook",
+    "name": "Libro degli incantesimi",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -4058,7 +4072,7 @@
   },
   {
     "index": "spike-iron",
-    "name": "Spike, iron",
+    "name": "Punta in ferro",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -4078,7 +4092,7 @@
   },
   {
     "index": "spyglass",
-    "name": "Spyglass",
+    "name": "Cannocchiale",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -4101,7 +4115,7 @@
   },
   {
     "index": "string-10-feet",
-    "name": "String (10 feet)",
+    "name": "Corda(3mt)",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -4124,7 +4138,7 @@
   },
   {
     "index": "tent-two-person",
-    "name": "Tent, two-person",
+    "name": "Tenda per due persone",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -4140,12 +4154,14 @@
       "unit": "gp"
     },
     "weight": 20,
-    "desc": ["A simple and portable canvas shelter, a tent sleeps two."],
+    "desc": [
+      "A simple and portable canvas shelter, a tent sleeps two."
+    ],
     "url": "/api/equipment/tent-two-person"
   },
   {
     "index": "tinderbox",
-    "name": "Tinderbox",
+    "name": "Esca",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -4169,7 +4185,7 @@
   },
   {
     "index": "torch",
-    "name": "Torch",
+    "name": "Torcia",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -4192,7 +4208,7 @@
   },
   {
     "index": "vestments",
-    "name": "Vestments",
+    "name": "Paramenti",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -4208,12 +4224,14 @@
       "unit": "cp"
     },
     "weight": 0,
-    "desc": ["Religious clothing, typically found in a priest's pack."],
+    "desc": [
+      "Religious clothing, typically found in a priest's pack."
+    ],
     "url": "/api/equipment/vestments"
   },
   {
     "index": "vial",
-    "name": "Vial",
+    "name": "Borraccia",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -4233,7 +4251,7 @@
   },
   {
     "index": "waterskin",
-    "name": "Waterskin",
+    "name": "Otre d'acqua",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -4273,7 +4291,7 @@
   },
   {
     "index": "burglars-pack",
-    "name": "Burglar's Pack",
+    "name": "Kit da ladro",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -4406,7 +4424,7 @@
   },
   {
     "index": "diplomats-pack",
-    "name": "Diplomat's Pack",
+    "name": "Kit da Diplomatico",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -4515,7 +4533,7 @@
   },
   {
     "index": "dungeoneers-pack",
-    "name": "Dungeoneer's Pack",
+    "name": "Pacco dell'esploratore",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -4608,7 +4626,7 @@
   },
   {
     "index": "entertainers-pack",
-    "name": "Entertainer's Pack",
+    "name": "Pacco dell'intrattenitore",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
@@ -4685,7 +4703,7 @@
   },
   {
     "index": "explorers-pack",
-    "name": "Explorer's Pack",
+    "name": "Pacco dell'esploratore",
     "equipment_category": {
       "index": "adventuring-gear",
       "name": "Adventuring Gear",
