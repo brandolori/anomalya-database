@@ -1,0 +1,376 @@
+[
+    {
+        "index": "ascia",
+        "nome": "Ascia",
+        "categoria_equipaggiamento": {
+            "index": "arma",
+            "nome": "Arma"
+        },
+        "categoria_arma": "semplice",
+        "distanza_arma": "mischia",
+        "distanza&categoria": "semplice da mischia",
+        "costo": {
+            "valore": 5,
+            "tipo_moneta": "mo"
+        },
+        "danni": {
+            "dado_danno": "1d6",
+            "tipo_danno": "taglienti"
+        },
+        "distanza": {
+            "standard": 5
+        },
+        "peso": 0.9,
+        "caratteristiche": [
+            {
+                "index": "leggero",
+                "nome": "Leggera"
+            },
+            {
+                "index": "monaco",
+                "nome": "Monaco"
+            },
+            {
+                "index": "lancio",
+                "nome": "Lancio"
+            }
+        ],
+        "gittata_Lancio": {
+            "normale": 6,
+            "massimo": 18
+        }
+    },
+    {
+        "index": "bastoneferrato",
+        "nome": "Bastone Ferrato",
+        "categoria_equipaggiamento": {
+            "index": "arma",
+            "nome": "Arma"
+        },
+        "categoria_arma": "semplice",
+        "distanza_arma": "mischia",
+        "distanza&categoria": "semplice da mischia",
+        "costo": {
+            "valore": 2,
+            "tipo_moneta": "ma"
+        },
+        "danni": {
+            "dado_danno": "1d6",
+            "tipo_danno": "contundenti"
+        },
+        "distanza": {
+            "standard": 5
+        },
+        "peso": 1.8,
+        "caratteristiche": [
+            {
+                "index": "versatile",
+                "nome": "Versatile"
+            },
+            {
+                "index": "monaco",
+                "nome": "Monaco"
+            }
+        ],
+        "danno_duemani": {
+            "dado_danno": "1d8",
+            "tipo_danno": "contundenti"
+        }
+    },
+    {
+        "index": "falcetto",
+        "nome": "Falcetto",
+        "categoria_equipaggiamento": {
+            "index": "arma",
+            "nome": "Arma"
+        },
+        "categoria_arma": "semplice",
+        "distanza_arma": "mischia",
+        "distanza&categoria": "semplice da mischia",
+        "costo": {
+            "valore": 1,
+            "tipo_moneta": "mo"
+        },
+        "danni": {
+            "dado_danno": "1d4",
+            "tipo_danno": "taglienti"
+        },
+        "distanza": {
+            "standard": 5
+        },
+        "peso": 0.9,
+        "caratteristiche": [
+            {
+                "index": "leggero",
+                "nome": "Leggera"
+            },
+            {
+                "index": "monaco",
+                "nome": "Monaco"
+            }
+        ]
+    },
+    {
+        "index": "giavellotto",
+        "nome": "Giavellotto",
+        "categoria_equipaggiamento": {
+            "index": "arma",
+            "nome": "Arma"
+        },
+        "categoria_arma": "semplice",
+        "distanza_arma": "mischia",
+        "distanza&categoria": "semplice da mischia",
+        "costo": {
+            "valore": 5,
+            "tipo_moneta": "ma"
+        },
+        "danni": {
+            "dado_danno": "1d6",
+            "tipo_danno": "perforanti"
+        },
+        "distanza": {
+            "standard": 5
+        },
+        "peso": 0.9,
+        "caratteristiche": [
+            {
+                "index": "monaco",
+                "nome": "Monaco"
+            },
+            {
+                "index": "lancio",
+                "nome": "Lancio"
+            }
+        ],
+        "gittata_Lancio": {
+            "normale": 9,
+            "massimo": 36
+        }
+    },
+    {
+        "index": "lancia",
+        "nome": "Lancia",
+        "categoria_equipaggiamento": {
+            "index": "arma",
+            "nome": "Arma"
+        },
+        "categoria_arma": "semplice",
+        "distanza_arma": "mischia",
+        "distanza&categoria": "semplice da mischia",
+        "costo": {
+            "valore": 1,
+            "tipo_moneta": "mo"
+        },
+        "danni": {
+            "dado_danno": "1d6",
+            "tipo_danno": "perforanti"
+        },
+        "distanza": {
+            "standard": 5
+        },
+        "peso": 1.4,
+        "caratteristiche": [
+            {
+                "index": "versatile",
+                "nome": "Versatile"
+            },
+            {
+                "index": "monaco",
+                "nome": "Monaco"
+            },
+            {
+                "index": "lancio",
+                "nome": "Lancio"
+            }
+        ],
+        "gittata_Lancio": {
+            "normale": 6,
+            "massimo": 18
+        },
+        "danno_duemani": {
+            "dado_danno": "1d8",
+            "tipo_danno": "perforanti"
+        }
+    },
+    {
+        "index": "martelloleggero",
+        "nome": "Martello Leggero",
+        "categoria_equipaggiamento": {
+            "index": "arma",
+            "nome": "Arma"
+        },
+        "categoria_arma": "semplice",
+        "distanza_arma": "mischia",
+        "distanza&categoria": "semplice da mischia",
+        "costo": {
+            "valore": 2,
+            "tipo_moneta": "mo"
+        },
+        "danni": {
+            "dado_danno": "1d4",
+            "tipo_danno": "contundenti"
+        },
+        "distanza": {
+            "standard": 5
+        },
+        "peso": 0.9,
+        "caratteristiche": [
+            {
+                "index": "leggero",
+                "nome": "Leggera"
+            },
+            {
+                "index": "monaco",
+                "nome": "Monaco"
+            },
+            {
+                "index": "lancio",
+                "nome": "Lancio"
+            }
+        ],
+        "gittata_Lancio": {
+            "normale": 6,
+            "massimo": 18
+        }
+    },
+    {
+        "index": "mazza",
+        "nome": "Mazza",
+        "categoria_equipaggiamento": {
+            "index": "arma",
+            "nome": "Arma"
+        },
+        "categoria_arma": "semplice",
+        "distanza_arma": "mischia",
+        "distanza&categoria": "semplice da mischia",
+        "costo": {
+            "valore": 5,
+            "tipo_moneta": "mo"
+        },
+        "danni": {
+            "dado_danno": "1d6",
+            "tipo_danno": "contundenti"
+        },
+        "distanza": {
+            "standard": 5
+        },
+        "peso": 1.8,
+        "caratteristiche": [
+            {
+                "index": "monaco",
+                "nome": "Monaco"
+            }
+        ]
+    },
+    {
+        "index": "pugnale",
+        "nome": "Pugnale",
+        "categoria_equipaggiamento": {
+            "index": "arma",
+            "nome": "Arma"
+        },
+        "categoria_arma": "semplice",
+        "distanza_arma": "mischia",
+        "distanza&categoria": "semplice da mischia",
+        "costo": {
+            "valore": 2,
+            "tipo_moneta": "mo"
+        },
+        "danni": {
+            "dado_danno": "1d4",
+            "tipo_danno": "perforanti"
+        },
+        "distanza": {
+            "standard": 5
+        },
+        "peso": 0.5,
+        "caratteristiche": [
+            {
+                "index": "accurata",
+                "nome": "Accurata"
+            },
+            {
+                "index": "leggero",
+                "nome": "Leggera"
+            },
+            {
+                "index": "monaco",
+                "nome": "Monaco"
+            },
+            {
+                "index": "lancio",
+                "nome": "Lancio"
+            }
+        ],
+        "gittata_Lancio": {
+            "normale": 6,
+            "massimo": 18
+        }
+    },
+    {
+        "index": "randello",
+        "nome": "Randello",
+        "categoria_equipaggiamento": {
+            "index": "arma",
+            "nome": "Arma"
+        },
+        "categoria_arma": "semplice",
+        "distanza_arma": "mischia",
+        "distanza&categoria": "semplice da mischia",
+        "costo": {
+            "valore": 1,
+            "tipo_moneta": "ma"
+        },
+        "danni": {
+            "dado_danno": "1d4",
+            "tipo_danno": "contundenti"
+        },
+        "distanza": {
+            "standard": 5
+        },
+        "peso": 0.9,
+        "caratteristiche": [
+            {
+                "index": "leggero",
+                "nome": "Leggera"
+            },
+            {
+                "index": "monaco",
+                "nome": "Monaco"
+            }
+        ]
+    },
+    {
+        "index": "randellopesante",
+        "nome": "Randello Pesante",
+        "categoria_equipaggiamento": {
+            "index": "arma",
+            "nome": "Arma"
+        },
+        "categoria_arma": "semplice",
+        "distanza_arma": "mischia",
+        "distanza&categoria": "semplice da mischia",
+        "costo": {
+            "valore": 2,
+            "tipo_moneta": "ma"
+        },
+        "danni": {
+            "dado_danno": "1d8",
+            "tipo_danno": "contundenti"
+        },
+        "distanza": {
+            "standard": 5
+        },
+        "peso": 4.5,
+        "caratteristiche": [
+            {
+                "index": "leggero",
+                "nome": "Leggera"
+            },
+            {
+                "index": "monaco",
+                "nome": "Monaco"
+            }
+        ]
+    }
+]
